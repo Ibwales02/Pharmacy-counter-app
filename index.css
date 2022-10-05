@@ -1,0 +1,42 @@
+body{
+    background-image: url("pharm.jpg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 100px;
+    font-size: 70px;
+}
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+#increment-btn{
+    background-color: darkblue;
+    
+}
+#save-btn {
+    background: rgb(35, 72, 35);
+   
+}
+
+
+button {
+    border: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    font-weight: bold;
+    width: 250px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 50px;
+}   
+
